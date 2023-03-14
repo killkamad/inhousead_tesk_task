@@ -331,3 +331,5 @@ tags
 dump.rdb
 db.sqlite3
 *.txt
+!requirements.txt
+!task_and_feedback.txt
